@@ -1,3 +1,5 @@
+import Button from "./ActionButton";
+
 const HomeHero: React.FC = () => {
   return (
     <header className="bg-white flex items-center justify-center h-screen">
